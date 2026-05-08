@@ -1,0 +1,36 @@
+Admin (Kepala Sekolah)
+Email: kepsek@Permanah.com
+Password: password
+
+2. Petugas (Staf)
+Email: staf@permanah.com
+Password: password
+
+
+ponpesnh24@gmail.com
+pondok14
+astaga2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+php artisan config:cache
+php artisan route:cache
+php artisan view:cache
+⚠️ Jangan pakai optimize:clear di production kecuali debugging.
+naondeui nya poho deui euy
+
+
+
+
